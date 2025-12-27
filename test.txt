@@ -1,1 +1,1 @@
-location: Banglore
+location: chennai
